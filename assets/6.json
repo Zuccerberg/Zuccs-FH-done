@@ -1,0 +1,19 @@
+{
+    "name": "Zucc's Forehead",
+    "symbol": "ZFH",
+    "image": "6.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "6.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "2jag9fKnQvGjPpfRci1cjy4JbHZhVwXeFXZgUi2vgMXb",
+                "share": 100
+            }
+        ]
+    }
+}
