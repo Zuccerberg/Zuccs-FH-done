@@ -1,13 +1,18 @@
 {
-    "price": 0.1,
-    "number": 7,
+    "price": 0.77,
+    "number": 7777,
     "gatekeeper": null,
-    "solTreasuryAccount": "<ENTER WALLET HERE>",
+    "solTreasuryAccount": "ZUCCfUMoWZ8UJdo8cTEdCWsbLPMfFSduB6H3VwMQJUU",
     "splTokenAccount": null,
     "splToken": null,
-    "goLiveDate": "19 Jan 2022 07:00:00 GMT",
+    "goLiveDate": "20 Jan 2022 02:00:00 GMT",
     "endSettings": null,
-    "whitelistMintSettings": null,
+    "whitelistMintSettings": {
+        "mode": { "burnEveryTime": true },
+        "mint": "9GZ82N3FD5HXitez2ZDX284uFhGjqicLHM2SYrSo4CQS",
+        "presale": true,
+        "discountPrice": 0.5
+        },
     "hiddenSettings": null,
     "storage": "arweave",
     "ipfsInfuraProjectId": null,
@@ -15,4 +20,4 @@
     "awsS3Bucket": null,
     "noRetainAuthority": false,
     "noMutable": false
-}
+  }
