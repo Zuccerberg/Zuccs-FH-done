@@ -1,17 +1,17 @@
 {
-    "price": 0.77,
-    "number": 7777,
+    "price": 0.33,
+    "number": 3333,
     "gatekeeper": null,
     "solTreasuryAccount": "ZUCCfUMoWZ8UJdo8cTEdCWsbLPMfFSduB6H3VwMQJUU",
     "splTokenAccount": null,
     "splToken": null,
-    "goLiveDate": "20 Jan 2022 02:00:00 GMT",
+    "goLiveDate": "15 Feb 2022 24:00:00 GMT",
     "endSettings": null,
     "whitelistMintSettings": {
         "mode": { "burnEveryTime": true },
-        "mint": "9GZ82N3FD5HXitez2ZDX284uFhGjqicLHM2SYrSo4CQS",
-        "presale": true,
-        "discountPrice": 0.5
+        "mint": "3m4Jmnw9bHxTzMNuNwm68FFZ5eVwPXL4UEUhotyzW8Dd",
+        "presale": false,
+        "discountPrice": 0.0
         },
     "hiddenSettings": null,
     "storage": "arweave",
