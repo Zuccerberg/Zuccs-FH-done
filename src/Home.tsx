@@ -162,20 +162,10 @@ const Home = (props: HomeProps) => {
   ]);
 
   return (
-    <Container className="d-flex flex-column" style={{ marginTop: 100 }}>
-        <img 
-          id="title-text" 
-          className='align-self-center' 
-          src="ZuccsForehead.png" 
-          alt='title-text' width="70%"  
-        />
-        <p id="subtext" className='text-muted text-center align-self-center'>
-          One day our overlord Zucc will save us from this reality. <br />
-          It's said that those holding a Zucc will have a spot on his mothership...
-        </p>
-        <Container maxWidth="xs"  style={{ position: 'relative' }}>
+    <Container style={{ marginTop: 100 }}>
+      <Container maxWidth="xs" style={{ position: 'relative' }}>
         <Paper
-          style={{ padding: 24, backgroundColor: '#131A1F', borderRadius: 6 }}
+          style={{ padding: 24, backgroundColor: '#151A1F', borderRadius: 6 }}
         >
           {!wallet.connected ? (
             <ConnectButton>Connect Wallet</ConnectButton>
